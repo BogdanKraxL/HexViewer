@@ -1,0 +1,17 @@
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\bin\Debug\net7.0-windows\HexViewer.exe
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\bin\Debug\net7.0-windows\HexViewer.deps.json
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\bin\Debug\net7.0-windows\HexViewer.runtimeconfig.json
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\bin\Debug\net7.0-windows\HexViewer.dll
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\bin\Debug\net7.0-windows\HexViewer.pdb
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\HexViewer.csproj.AssemblyReference.cache
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\HexViewer.Form1.resources
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\HexViewer.csproj.GenerateResource.cache
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\HexViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\HexViewer.AssemblyInfoInputs.cache
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\HexViewer.AssemblyInfo.cs
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\HexViewer.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\HexViewer.dll
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\refint\HexViewer.dll
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\HexViewer.pdb
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\HexViewer.genruntimeconfig.cache
+C:\Users\bogda\source\Tema General\HexViewer\HexViewer\obj\Debug\net7.0-windows\ref\HexViewer.dll
